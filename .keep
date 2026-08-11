@@ -1,1 +1,7 @@
+mkdir Games
+cd Games
+touch .gitkeep
+git add .
+git commit -m "Add new folder"
+git push origin main
 
